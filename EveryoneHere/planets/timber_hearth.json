@@ -1,0 +1,402 @@
+{
+	"name": "timber_hearth",
+
+
+	"Props": {
+		"details": [
+			{
+				"path": "Traveller_HEA_Riebeck",
+				"position": {
+					"x": 19.1546,
+					"y": -39.8567,
+					"z": 185.2922
+				},
+				"rotation": {
+					"x": 90,
+					"y": 0,
+					"z": 0
+				}
+			},
+			{
+				"path": "Signal_Drums",
+				"position": {
+					"x": 21.7583,
+					"y": -41.0621,
+					"z": 185.5161
+				},
+				"rotation": {
+					"x": 35.3335,
+					"y": 248.0453,
+					"z": 243.6535
+				}
+			},
+			{
+				"path": "Traveller_HEA_Chert",
+				"position": {
+					"x": 21.7583,
+					"y": -41.0621,
+					"z": 185.5161
+				},
+				"rotation": {
+					"x": 35.3335,
+					"y": 248.0453,
+					"z": 243.6535
+				}
+			},
+			{
+				"path": "Signal_Banjo",
+				"position": {
+					"x": 19.1546,
+					"y": -39.8567,
+					"z": 185.2922
+				},
+				"rotation": {
+					"x": 90,
+					"y": 0,
+					"z": 0
+				}
+			},
+			{
+				"path": "Villager_HEA_Esker",
+				"position": {
+					"x": 21.5802,
+					"y": -39.4857,
+					"z": 187.0705
+				},
+				"rotation": {
+					"x": 43.8297,
+					"y": 266.9011,
+					"z": 252.8371
+				}
+			},
+
+			{
+				"path": "Traveller_HEA_Gabbro",
+				"position": {
+					"x": 17.2819,
+					"y": -38.1549,
+					"z": 186.1869
+				},
+				"rotation": {
+					"x": 340.4743,
+					"y": 89.9953,
+					"z": 110.7455
+				}
+			},
+			{
+				"path": "Signal_Flute",
+				"position": {
+					"x": 17.2819,
+					"y": -38.1549,
+					"z": 186.1869
+				},
+				"rotation": {
+					"x": 340.4743,
+					"y": 89.9953,
+					"z": 110.7455
+				}
+			},
+
+
+			{
+				"path": "DB_PioneerDimension_Body/Sector_PioneerDimension/Interactables_PioneerDimension/Pioneer_Characters/Traveller_HEA_Feldspar",
+				"position": {
+					"x": 20.1874,
+					"y": -40.6275,
+					"z": 185.3319
+				},
+				"rotation": {
+					"x": 63.213,
+					"y": 175,
+					"z": 166.0182
+				}
+			},
+			{
+				"path": "DB_PioneerDimension_Body/Sector_PioneerDimension/Interactables_PioneerDimension/Pioneer_Characters/Signal_Harmonica",
+				"position": {
+					"x": 20.1874,
+					"y": -40.6275,
+					"z": 185.3319
+				},
+				"rotation": {
+					"x": 63.213,
+					"y": 175,
+					"z": 166.0182
+				}
+			},
+
+			{
+				"path": "Character_NOM_Solanum",
+				"position": {
+					"x": 24.0512,
+					"y": -40.4766,
+					"z": 184.9925
+				},
+				"rotation": {
+					"x": 33.729,
+					"y": 269.6905,
+					"z": 258.236
+				}
+			},
+
+			{
+				"path": "Villager_HEA_Gossan",
+				"position": {
+					"x": 20.0205,
+					"y": -38.7966,
+					"z": 185.7905
+				},
+				"rotation": {
+					"x": 46.1517,
+					"y": 113.8895,
+					"z": 113.1093
+				}
+			},
+			{
+				"path": "Villager_HEA_Hornfels (1)",
+				"position": {
+					"x": 22.4605,
+					"y": -39.431,
+					"z": 185.3904
+				},
+				"rotation": {
+					"x": 68.0628,
+					"y": 232.2347,
+					"z": 223.2985
+				},
+				"scale": 0.92
+			},
+
+			{
+				"path": "Character_HEA_Hal_Museum",
+				"position": {
+					"x": 16.1734,
+					"y": -41.2418,
+					"z": 185.6975
+				},
+				"rotation": {
+					"x": 56.9643,
+					"y": 107.8561,
+					"z": 108.0665
+				}
+			},
+
+			{
+				"path": "NPC_Player",
+				"position": {
+					"x": 15.0498,
+					"y": -41.3526,
+					"z": 185.7685
+				},
+				"rotation": {
+					"x": 33.9831,
+					"y": 103.5583,
+					"z": 102.4866
+				}
+			},
+
+			{
+				"path": "Villager_HEA_Rutile",
+				"position": {
+					"x": 24.7606,
+					"y": -41.931,
+					"z": 184.5906
+				},
+				"rotation": {
+					"x": 27.3365,
+					"y": 267.4358,
+					"z": 254.883
+				}
+			},
+
+			{
+				"path": "Villager_HEA_Porphy",
+				"position": {
+					"x": 24.457,
+					"y": -43.7236,
+					"z": 184.1798
+				},
+				"rotation": {
+					"x": 355.8521,
+					"y": 276.5535,
+					"z": 257.828
+				}
+			},
+
+			{
+				"path": "Villager_HEA_Arkose_GhostMatter",
+				"position": {
+					"x": 22.6589,
+					"y": -42.9926,
+					"z": 184.5801
+				},
+				"rotation": {
+					"x": 355.8521,
+					"y": 276.5535,
+					"z": 257.828
+				}
+			},
+
+			{
+				"path": "Villager_HEA_Galena",
+				"position": {
+					"x": 22.5664,
+					"y": -44.4107,
+					"z": 184.2641
+				},
+				"rotation": {
+					"x": 346.1208,
+					"y": 289.2345,
+					"z": 254.5354
+				}
+			},
+
+			{
+				"path": "Villager_HEA_Mica",
+				"position": {
+					"x": 15.2647,
+					"y": -42.5198,
+					"z": 185.4864
+				},
+				"rotation": {
+					"x": 354.1786,
+					"y": 89.3796,
+					"z": 105.591
+				}
+			},
+
+			{
+				"path": "Villager_HEA_Spinel",
+				"position": {
+					"x": 24.0355,
+					"y": -44.5943,
+					"z": 184.1003
+				},
+				"rotation": {
+					"x": 319.9436,
+					"y": 284.7744,
+					"z": 256.8278
+				}
+			},
+
+			{
+				"path": "Villager_HEA_Marl",
+				"position": {
+					"x": 24.9773,
+					"y": -42.7544,
+					"z": 184.3003
+				},
+				"rotation": {
+					"x": 329.8891,
+					"y": 283.4743,
+					"z": 256.8279
+				}
+			},
+
+			{
+				"path": "Villager_HEA_Tuff",
+				"position": {
+					"x": 23.2956,
+					"y": -45.3143,
+					"z": 183.9325
+				},
+				"rotation": {
+					"x": 40.4654,
+					"y": 271.2541,
+					"z": 256.8278
+				}
+			},
+
+
+			{
+				"path": "Villager_HEA_Moraine",
+				"position": {
+					"x": 22.3501,
+					"y": -43.8326,
+					"z": 184.4006
+				},
+				"rotation": {
+					"x": 330.6725,
+					"y": 289.1743,
+					"z": 256.8278
+				}
+			},
+
+			{
+				"path": "Villager_HEA_Tektite_2",
+				"position": {
+					"x": 25.4773,
+					"y": -41.3544,
+					"z": 184.7006
+				},
+				"rotation": {
+					"x": 353.3925,
+					"y": 285.9371,
+					"z": 253.1581
+				},
+				"scale": 1.3
+			},
+
+			{
+				"path": "Villager_HEA_Tephra",
+				"position": {
+					"x": 21.2172,
+					"y": -40.6035,
+					"z": 185.964
+				},
+				"rotation": {
+					"x": 26.089,
+					"y": 275.8038,
+					"z": 257.8279
+				}
+			},
+
+
+
+			{
+				"path": "Prefab_IP_GhostBird_Prisoner",
+				"position": {
+					"x": 15.6301,
+					"y": -41.4283,
+					"z": 185.4577
+				},
+				"rotation": {
+					"x": 10.2989,
+					"y": 104.3529,
+					"z": 105.8894
+				}
+			},
+
+
+
+			{
+				"path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Ghosts_DreamZone_1/GhostNodeMap_Forest/Prefab_IP_GhostBird_Pazuzu/Ghostbird_IP_ANIM",
+				"position": {
+					"x": 15.6301,
+					"y": -41.4283,
+					"z": 185.4577
+				},
+				"rotation": {
+					"x": 10.2989,
+					"y": 104.3529,
+					"z": 105.8894
+				}
+			},
+
+			{
+				"path": "Villager_HEA_Gneiss",
+				"position": {
+					"x": 22.9784,
+					"y": -41.7655,
+					"z": 184.818
+				},
+				"rotation": {
+					"x": 30.9241,
+					"y": 271.4433,
+					"z": 258.0905
+				}
+			}
+
+		]
+	}
+}

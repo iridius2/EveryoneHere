@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "EveryoneHere.dll",
+  "author": "四十瓶盖",
+  "name": "EveryoneHere",
+  "uniqueName": "四十瓶盖.EveryoneHere",
+  "version": "0.1.0",
+  "owmlVersion": "2.7.3",
+  "dependencies": ["xen.NewHorizons"]
+}
